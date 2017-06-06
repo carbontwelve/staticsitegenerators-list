@@ -2,7 +2,8 @@
   {
     "name": "ABlog",
     "github": "abakan/ablog",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Ace",
