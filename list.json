@@ -16,7 +16,8 @@
     "github": "posativ/acrylamid",
     "website": "https://posativ.org/acrylamid/",
     "license": "BSD-2-Clause",
-    "defunct": true
+    "defunct": true,
+    "is": "static site generator"
   },
   {
     "name": "AkashaCMS",
