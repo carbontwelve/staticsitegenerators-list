@@ -22,7 +22,8 @@
   {
     "name": "AkashaCMS",
     "github": "akashacms/akashacms",
-    "website": "http://akashacms.com"
+    "website": "http://akashacms.com",
+    "is": "flat file cms"
   },
   {
     "name": "Akashic",
