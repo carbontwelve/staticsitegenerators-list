@@ -63,7 +63,8 @@
     "website": "http://automad.org/",
     "license": "MIT",
     "language": "PHP",
-    "description": "Automad is a file-based CMS and template engine. It is designed to be fully portable without any dependencies on databases or fixed locations and doesn't require any complicated setup process."
+    "description": "Automad is a file-based CMS and template engine. It is designed to be fully portable without any dependencies on databases or fixed locations and doesn't require any complicated setup process.",
+    "is": "flat file cms"
   },
   {
     "name": "awestruct",
