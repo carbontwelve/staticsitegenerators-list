@@ -33,7 +33,8 @@
   {
     "name": "antwar",
     "github": "antwarjs/antwar",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Appernetic",
