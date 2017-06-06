@@ -27,7 +27,8 @@
   },
   {
     "name": "Akashic",
-    "github": "Liutos/cl-github-page"
+    "github": "Liutos/cl-github-page",
+    "is": "static site generator"
   },
   {
     "name": "antwar",
