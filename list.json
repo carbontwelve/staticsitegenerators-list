@@ -55,7 +55,8 @@
   {
     "name": "Asteroid",
     "github": "amyinorbit/Asteroid",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Automad",
