@@ -8,7 +8,8 @@
   {
     "name": "Ace",
     "github": "botanicus/ace",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "acrylamid",
