@@ -366,7 +366,8 @@
   {
     "name": "Codex",
     "github": "logicalparadox/codex",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "coleslaw",
