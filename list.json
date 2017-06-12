@@ -273,7 +273,8 @@
     "name": "Bryar",
     "website": "https://metacpan.org/pod/Bryar::Frontend::Static",
     "license": "Artistic-1.0-Perl",
-    "language": "Perl"
+    "language": "Perl",
+    "is": "static site exporter"
   },
   {
     "name": "buster",
