@@ -117,7 +117,8 @@
   {
     "name": "Benjen",
     "github": "daeken/Benjen",
-    "license": "WTFPL"
+    "license": "WTFPL",
+    "is": "static site generator"
   },
   {
     "name": "BitBalloon",
