@@ -335,7 +335,8 @@
   {
     "name": "Cipherpress",
     "github": "lejonet/Cipherpress",
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "is": "static site generator"
   },
   {
     "name": "cl-blog-generator",
