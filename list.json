@@ -99,7 +99,8 @@
   {
     "name": "bashblog",
     "github": "cfenollosa/bashblog",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "is": "static site generator"
   },
   {
     "name": "bazinga",
