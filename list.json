@@ -242,7 +242,8 @@
   {
     "name": "Bramble MVC",
     "github": "iansullivan88/bramble-mvc",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Bread",
