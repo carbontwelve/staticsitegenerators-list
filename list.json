@@ -93,7 +93,8 @@
   {
     "name": "BAM",
     "github": "twilson63/bam",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "bashblog",
