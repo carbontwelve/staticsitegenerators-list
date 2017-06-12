@@ -310,7 +310,8 @@
     "name": "catsup",
     "github": "whtsky/Catsup",
     "website": "https://catsup.readthedocs.io/en/latest/",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Chili",
