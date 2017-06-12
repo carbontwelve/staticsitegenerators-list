@@ -111,7 +111,8 @@
   {
     "name": "Beetle",
     "github": "cknv/beetle",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Benjen",
