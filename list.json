@@ -87,7 +87,8 @@
   {
     "name": "Balloon",
     "github": "gschier/balloon",
-    "license": "ISC"
+    "license": "ISC",
+    "is": "static site generator"
   },
   {
     "name": "BAM",
