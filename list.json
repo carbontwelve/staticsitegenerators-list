@@ -279,7 +279,8 @@
   {
     "name": "buster",
     "github": "axitkhurana/buster",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site exporter"
   },
   {
     "name": "Cabin",
