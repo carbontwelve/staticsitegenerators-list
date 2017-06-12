@@ -329,7 +329,8 @@
     "name": "Chronicle",
     "github": "skx/chronicle2",
     "website": "https://steve.fi/Software/chronicle/",
-    "license": "(GPL-3.0 OR Artistic-1.0-Perl)"
+    "license": "(GPL-3.0 OR Artistic-1.0-Perl)",
+    "is": "static site generator"
   },
   {
     "name": "Cipherpress",
