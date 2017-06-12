@@ -248,7 +248,8 @@
   {
     "name": "Bread",
     "github": "pvorb/node-bread",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Bricolage CMS",
