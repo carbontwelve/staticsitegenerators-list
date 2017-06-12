@@ -291,7 +291,8 @@
   {
     "name": "Cactus",
     "github": "eudicots/Cactus",
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "is": "static site generator"
   },
   {
     "name": "Calepin",
