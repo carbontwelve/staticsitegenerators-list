@@ -360,7 +360,8 @@
   {
     "name": "cobalt.rs",
     "github": "cobalt-org/cobalt.rs",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Codex",
