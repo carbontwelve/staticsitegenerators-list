@@ -417,7 +417,8 @@
   {
     "name": "cytoplasm",
     "github": "startling/cytoplasm",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Dapper",
