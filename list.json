@@ -234,8 +234,10 @@
   },
   {
     "name": "Bonsai",
+    "website": "http://tinytree.info/",
     "github": "benschwarz/bonsai",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Bramble MVC",
