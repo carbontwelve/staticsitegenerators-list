@@ -229,7 +229,8 @@
     "name": "Bolt",
     "github": "benmcredmond/Bolt",
     "website": "https://github.com/benmcredmond/Bolt",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Bonsai",
