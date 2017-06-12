@@ -392,7 +392,8 @@
   {
     "name": "Cory",
     "github": "leo/cory",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "creo",
