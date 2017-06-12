@@ -75,7 +75,8 @@
   {
     "name": "AYM CMS",
     "github": "lethain/aym-cms",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "flat file cms"
   },
   {
     "name": "baker",
