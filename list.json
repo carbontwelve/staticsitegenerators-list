@@ -186,7 +186,8 @@
   {
     "name": "Blogen",
     "github": "ipconfiger/blogen",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "is": "static site generator",
   },
   {
     "name": "blogit",
