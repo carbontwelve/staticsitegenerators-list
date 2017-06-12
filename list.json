@@ -404,7 +404,8 @@
   {
     "name": "cub",
     "github": "patcoll/cub",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "cyrax",
