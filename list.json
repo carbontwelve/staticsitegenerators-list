@@ -380,7 +380,8 @@
   {
     "name": "Composer",
     "github": "shazow/composer",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Contentful",
