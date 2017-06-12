@@ -150,7 +150,8 @@
     "name": "BlazeBlogger",
     "website": "http://blaze.blackened.cz/",
     "license": "GPL-3.0",
-    "language": "Perl"
+    "language": "Perl",
+    "is": "flat file cms"
   },
   {
     "name": "bliper",
@@ -162,13 +163,15 @@
   },
   {
     "name": "Blode",
-    "github": "stackoverflow/blode"
+    "github": "stackoverflow/blode",
+    "is": "static site generator"
   },
   {
     "name": "blogc",
     "github": "blogc/blogc",
     "website": "https://blogc.rgm.io",
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "is": "static site generator"
   },
   {
     "name": "blogc++",
