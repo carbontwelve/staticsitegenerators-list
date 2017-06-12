@@ -354,7 +354,8 @@
   {
     "name": "CMX.js",
     "github": "bullpizzle/cmx.js",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "cobalt.rs",
