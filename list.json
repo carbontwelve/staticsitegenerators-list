@@ -255,7 +255,8 @@
     "name": "Bricolage CMS",
     "github": "bricoleurs/bricolage",
     "website": "http://bricolagecms.org/",
-    "license": "(BSD-3-Clause AND LGPL-2.1 AND CC-BY-SA-2.5)"
+    "license": "(BSD-3-Clause AND LGPL-2.1 AND CC-BY-SA-2.5)",
+    "is": "flat file cms"
   },
   {
     "name": "Broccoli Taco",
