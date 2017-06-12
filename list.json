@@ -192,7 +192,8 @@
   {
     "name": "blogit",
     "github": "oz123/blogit",
-    "license": "BSD-3-Clause"
+    "license": "BSD-3-Clause",
+    "is": "static site generator"
   },
   {
     "name": "Blogofile",
