@@ -302,7 +302,9 @@
   {
     "name": "Carew",
     "github": "carew/carew",
-    "license": "MIT"
+    "license": "MIT",
+    "website": "http://carew.github.io/",
+    "is": "static site generator"
   },
   {
     "name": "catsup",
