@@ -342,7 +342,8 @@
     "name": "cl-blog-generator",
     "github": "hugoduncan/cl-blog-generator",
     "website": "http://hugoduncan.org/cl-blog-generator/content/site/index.xhtml",
-    "license": "BSD-2-Clause"
+    "license": "BSD-2-Clause",
+    "is": "static site generator"
   },
   {
     "name": "Cloud Cannon",
