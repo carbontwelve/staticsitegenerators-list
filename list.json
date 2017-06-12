@@ -398,7 +398,8 @@
   {
     "name": "creo",
     "github": "ByronKellett/creo",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "cub",
