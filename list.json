@@ -135,7 +135,8 @@
   {
     "name": "Blacksmith",
     "github": "flatiron/blacksmith",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Blatter",
