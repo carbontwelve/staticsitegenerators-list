@@ -81,7 +81,8 @@
   {
     "name": "baker",
     "github": "taylorchu/baker",
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "is": "static site generator"
   },
   {
     "name": "Balloon",
