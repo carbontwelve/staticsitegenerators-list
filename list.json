@@ -316,7 +316,8 @@
   {
     "name": "Chili",
     "github": "clvrobj/chili",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "Chisel",
