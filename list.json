@@ -69,7 +69,8 @@
   {
     "name": "awestruct",
     "github": "awestruct/awestruct",
-    "license": "MIT"
+    "license": "MIT",
+    "is": "static site generator"
   },
   {
     "name": "AYM CMS",
